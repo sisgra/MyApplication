@@ -1,6 +1,5 @@
-package com.example.myapplication
+package com.example.myapplication.controller
 
-import android.nfc.Tag
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import  android.util.Log
